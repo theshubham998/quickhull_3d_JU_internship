@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1436184287 source:b:\summer training '15\quickhull3d\face.cpp
+	<bits/stdc++.h>
+	"face.h"
+
+1437676095 b:\summer training '15\quickhull3d\face.h
+	<vector>
+	"point.h"
+	<math.h>
+	"func.h"
+
+1436184742 b:\summer training '15\quickhull3d\point.h
+
+1437676293 b:\summer training '15\quickhull3d\func.h
+
+1436184213 source:b:\summer training '15\quickhull3d\facelist.cpp
+	"facelist.h"
+
+1437676123 b:\summer training '15\quickhull3d\facelist.h
+	"facet.h"
+
+1436184893 b:\summer training '15\quickhull3d\facet.h
+	"vector3d.h"
+	"point3d.h"
+	<math.h>
+	<vector>
+
+1436184658 b:\summer training '15\quickhull3d\vector3d.h
+	"func.h"
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1436184703 b:\summer training '15\quickhull3d\point3d.h
+	"vector3d.h"
+
+1436185531 source:b:\summer training '15\quickhull3d\facet.cpp
+	<cstdio>
+	"facet.h"
+	"halfedge.h"
+	"facelist.h"
+
+1436184319 source:b:\summer training '15\quickhull3d\halfedge.cpp
+	"halfedge.h"
+
+1436184808 b:\summer training '15\quickhull3d\halfedge.h
+	"facet.h"
+	"vertex.h"
+
+1436184607 b:\summer training '15\quickhull3d\vertex.h
+	"facet.h"
+	"point3d.h"
+
+1439458276 source:b:\summer training '15\quickhull3d\main.cpp
+	<bits/stdc++.h>
+	"quickhull3d.h"
+
+1436268198 source:b:\summer training '15\quickhull3d\quickhull3d.cpp
+	<bits/stdc++.h>
+	"quickhull3d.h"
+
+1436268245 b:\summer training '15\quickhull3d\quickhull3d.h
+	"vertex.h"
+	<vector>
+	"facelist.h"
+	"halfedge.h"
+	"vertexlist.h"
+	"facet.h"
+	"func.h"
+
+1436185036 b:\summer training '15\quickhull3d\vertexlist.h
+	"vertex.h"
+
+1436185271 source:b:\summer training '15\quickhull3d\vector3d.cpp
+	"vector3d.h"
+
